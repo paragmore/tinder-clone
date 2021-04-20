@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+The frontend is deployed at( https://tinder-clone-8eaa6.web.app/ ) and ( https://tinder-clone-8eaa6.firebaseapp.com/ ).
+The frontend is deployed at( https://sasta-tinder-backend.herokuapp.com/ ).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
