@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# SASTA TINDER CLONE
 
 The frontend is deployed at( https://tinder-clone-8eaa6.web.app/ ) and ( https://tinder-clone-8eaa6.firebaseapp.com/ ).
 The frontend is deployed at( https://sasta-tinder-backend.herokuapp.com/ ).
